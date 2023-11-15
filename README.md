@@ -54,11 +54,9 @@
  
    <p  >
           <a href=" ">
-          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?   
-                username=AlegreAugustoGerman&theme=gruvbox&layout=compact&hide_border=true"
+          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AlegreAugustoGerman&theme=gruvbox&layout=compact&hide_border=true"
            />
-          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language? 
-               username=AlegreAugustoGerman&theme=gruvbox&layout=compact&hide_border=true"
+          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AlegreAugustoGerman&theme=gruvbox&layout=compact&hide_border=true"
            " />
           </a>
 
