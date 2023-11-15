@@ -1,7 +1,7 @@
  <div align="center">
-<h1 align="center"> Hi 👋 <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif">, I'm Augusto </h1>
+<h1 align="center"> Hi 👋 <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif"/>, I'm Augusto </h1>
  
-<h4 align="center">  I currently work as a developer at I+D Silicon in the morning. <a href="https://github.com/1999AZZAR/1999AZZAR/blob/main/assets/doc/azzar_resume.pdf" target="_blank">resume</a> for more</h4>
+<h4 align="center">  I currently work as a developer at I+D Silicon in the morning. <a href=" " target="_blank">resume</a> for more</h4>
 
  <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture>  
 </div>
