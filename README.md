@@ -1,5 +1,5 @@
  <div align="center">
-<h1 align="center"> Hi 👋 <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif"/>, I'm Augusto </h1>
+<h1 align="center"> Hi 👋 <img width="35" src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/waving.gif"/>, Nice to see you </h1>
  
 <h4 align="center">  I currently work as a developer at I+D Silicon in the morning. <a href=" " target="_blank">resume</a> for more</h4>
 
@@ -11,8 +11,37 @@
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
+
+<div>
+<img align='right' src="https://i.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.webp" width="220" alt="giphy">
+<p >
+ 
+<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/VSCode-Dark.svg" alt="" width="30">
+<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Postman.svg" alt="" width="30">
+<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Github-Dark.svg" alt="" width="30"
+
+
+<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Java-Dark.svg" alt="java" width="30">
+<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/PHP-Dark.svg" alt="" width="30">
+<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Laravel-Dark.svg" alt="" width="30">
+<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/React-Dark.svg" alt="" width="30">
+<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/NodeJS-Dark.svg" alt="" width="30">
+
+<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/ExpressJS-Dark.svg" alt="" width="30">
+
+<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/MySQL-Dark.svg" alt="" width="30">
+<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/MongoDB.svg" alt="" width="30">
+
+
+<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/TailwindCSS-Dark.svg" alt="" width="30">
+<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Vite-Dark.svg" alt="" width="30">
+<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/CSS.svg" alt="" width="30">
+<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/HTML.svg" alt="" width="30">
+<img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Blender-Dark.svg" alt="" width="30">
+</p>
+</div>
+
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
------
 <details>
   <summary>☎️ contact me</summary>
 <div>
@@ -114,19 +143,16 @@
   </div>    
 </details>
 
-<details>
-  <summary>📈 Latest Activity Graph</summary>
-  <samp>
-  <br/>
-  <h2 align="center"> latest contribution </h2>
-<a href=" ">
-  <img alt="azzar's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=1999azzar&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a>
-<br/>
-  </samp>
-  </details>
-  
  
- 
+   
+
+
  
 
 
+
+
+
+
+ 
+ 
