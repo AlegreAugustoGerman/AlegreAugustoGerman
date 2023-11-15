@@ -46,7 +46,7 @@
       <a href="https://www.linkedin.com/in/augustogermánalegre/" target="blank"><img align="center" 
          src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
            height="30"/></a>
-      <a href="mailto:augustogermanalegre@gmail.com" target="blank"><img align="center"
+      <a href=" " target="blank"><img align="center"
          src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
            height="30"/></a>
     </p>
@@ -54,9 +54,11 @@
  
    <p  >
           <a href=" ">
-          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AlegreAugustoGerman&theme=gruvbox&layout=compact&hide_border=true"
+          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?   
+                username=AlegreAugustoGerman&theme=gruvbox&layout=compact&hide_border=true"
            />
-          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AlegreAugustoGerman&theme=gruvbox&layout=compact&hide_border=true"
+          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language? 
+               username=AlegreAugustoGerman&theme=gruvbox&layout=compact&hide_border=true"
            " />
           </a>
 
