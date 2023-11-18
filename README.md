@@ -1,6 +1,6 @@
  <div align="center">
 <h1 align="center"> Hi 👋 , Nice to see you </h1>
-<h4 align="center">  I currently work as a developer at I+D Silicon in the morning. <a href=" " target="_blank">resume</a> for more</h4>
+<h4 align="center">  I currently work as a developer at I+D Silicon in the morning. <a href="https://github.com/AlegreAugustoGerman?tab=repositories" target="_blank">resume</a> for more</h4>
  <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture>  
 </div>
 
