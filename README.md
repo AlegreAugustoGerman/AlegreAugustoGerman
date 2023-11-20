@@ -49,21 +49,30 @@
       <a href="mailto:augustogermanalegre@gmail.com" target="blank"><img align="center"
          src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
            height="30"/></a>
-    </p>
-   
- 
-   <p  >
-          <a href=" ">
-          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AlegreAugustoGerman&theme=gruvbox&layout=compact&hide_border=true"
-           />
-          <img width="45%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AlegreAugustoGerman&theme=gruvbox&layout=compact&hide_border=true"
-           " />
-          </a>
-
-   
    </p>
 
-   <p align="center">   
-   <img align='center' src="https://i.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.webp" width="220" alt="giphy"  >
-   </p>
-    
+ <div  align="item">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
+  <img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=AlegreAugustoGerman&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=7"/>  
+   
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AlegreAugustoGerman&theme=dark&hide" width="33%" >    
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AlegreAugustoGerman&theme=dark&hide" width="33%" >  
+ </div>
+
+<div align="center" >
+ <img align='center' src="https://i.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.webp" width="30%" alt="giphy"  >
+ </div>
+
+
+
+
+
+
+                                                                                   
+
+
+
+
+
+
+
