@@ -5,9 +5,7 @@
 </div>
 
 <div  >
-  <img  
-   
-   /> 
+  <img src = "https://github.com/AlegreAugustoGerman/AlegreAugustoGerman/blob/main/resources/grid-snake.svg"/> 
 </div>
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
  <div>
@@ -52,7 +50,7 @@
    </p>
 <div align="center" >
  
-![GIF](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlegreAugustoGerman&layout=compact&theme=dark&hide_border=true&langs_count=7)](https://github.com/AlegreAugustoGerman/github-readme-stats)  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AlegreAugustoGerman&theme=dark&hide" width="38%">  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AlegreAugustoGerman&theme=dark&hide" width="38%"> 
+![GIF](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlegreAugustoGerman&layout=compact&theme=dark&hide_border=true&langs_count=7)](https://github.com/AlegreAugustoGerman/github-readme-stats)  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AlegreAugustoGerman&theme=dark&hide" width="32%">  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AlegreAugustoGerman&theme=dark&hide" width="32%"> 
 </div>
 
 <div align="center" >
