@@ -50,9 +50,10 @@
          src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
            height="30"/></a>
    </p>
-
+<div align="center" >
+ 
 ![GIF](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlegreAugustoGerman&layout=compact&theme=dark&hide_border=true&langs_count=7)](https://github.com/anuraghazra/github-readme-stats)  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AlegreAugustoGerman&theme=dark&hide" width="32%">  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AlegreAugustoGerman&theme=dark&hide" width="32%"> 
-
+</div>
 
 <div align="center" >
  <img align='center' src="https://i.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.webp" width="30%" alt="giphy"  >
